@@ -56,3 +56,5 @@ bot.catch(err => {
 bot.launch(() => {
     console.log("-! Bot started !-")
 })
+
+module.exports = bot;
